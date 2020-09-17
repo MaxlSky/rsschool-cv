@@ -25,3 +25,12 @@ A **university student**, capable of both **quick learning** and applying **diff
 
 * [University project. Arkanoid \[C++/OpenGL game\]](https://github.com/MaxlSky/University-Arkanoid)
 * University project. Simple movies database \[C++\]
+
+## LANGUAGE
+
+* Russian (Native)
+* English (B2)
+
+## ACADEMIC QUALIFICATIONS
+
+**Polotsk State University**  –  Information Technology Software  \[**2018-2022**\]
