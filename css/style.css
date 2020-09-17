@@ -1,0 +1,113 @@
+html {
+  width: 100%;
+}
+
+body {
+  font-family: Lato, Verdana, sans-serif;
+}
+
+header {
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  background: linear-gradient(to bottom, #2251b2 70%, white 70%, white 100%);
+}
+
+header
+p {
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+header
+img {
+  display: flex;
+  margin-left: 20%;
+  border: solid 1px black;
+}
+
+section {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+section
+li {
+  margin-bottom: 5px;
+}
+
+section
+#upperArticle {
+  border-bottom: 1px solid #aaa;
+
+  text-align: justify;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+}
+
+section
+.sectionBold {
+  color: black;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+section
+#upperArticle
+#contact {
+  width: 20%;
+}
+
+section
+#upperArticle
+#contact
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+section
+#upperArticle
+#summary {
+  width: 80%;
+}
+
+section
+#lowerArticle {
+  border-bottom: 1px solid #aaa;
+  text-align: justify;
+  font-size: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: space-between;
+}
+
+section
+#lowerArticle
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+section
+#lowerArticle
+#skills {
+  width: 20%;
+}
+
+section
+#lowerArticle
+#language {
+  width: 20%;
+}
+
+section
+#lowerArticle
+#academy {
+  width: 60%;
+}
